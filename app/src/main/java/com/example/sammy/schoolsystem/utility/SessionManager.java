@@ -72,8 +72,6 @@ public class SessionManager {
         editor.apply();
     }
 
-
-
     /**
      * Check login method will check user login status
      * If false it will redirect user to login page
