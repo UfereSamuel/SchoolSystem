@@ -83,7 +83,7 @@ public class SessionManager {
         // Check login status
         if (!this.isUserLoggedIn()) {
 
-            // user is not logged in redirect him to Login Activity
+            // user is not logged in redirect him to Logity
             Intent i = new Intent(_context, MainActivity.class);
 
             // Closing all the Activities from stack
